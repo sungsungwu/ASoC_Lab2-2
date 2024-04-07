@@ -1,0 +1,18 @@
+# Simulating design
+# cd ../..; ./Catapult_4/EdgeDetect_Top.v1/scverify/orig_cxx_osci/scverify_top ./image/people640x360_rgb.bmp 1 out_algorithm.bmp out_hw.bmp
+# Loading Input File
+# Input file:          ./image/people640x360_rgb.bmp
+# Mode:                1
+# Output file (alg):   out_algorithm.bmp
+# Output file (hw):    out_hw.bmp
+# Image width: 640
+# Image height: 360
+# ############################################ FRAME NO.   0 ###############################################
+# Running
+# Magnitude: Manhattan norm per pixel 5.357491
+# Writing algorithmic bitmap output to: out_algorithm.bmp
+# Writing bit-accurate bitmap output to: out_hw.bmp
+# sofErr: 0 eolErr: 0
+# crc32_alg_pix_in  = ebb44e76  crc32_hw_pix_in  = ebb44e76
+# crc32_alg_dat_out = 398625ad  crc32_hw_dat_out = 49e564fe
+# Finished
